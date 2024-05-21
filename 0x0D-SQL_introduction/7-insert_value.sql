@@ -1,0 +1,1 @@
+-- Inserts a record in a table in the database
